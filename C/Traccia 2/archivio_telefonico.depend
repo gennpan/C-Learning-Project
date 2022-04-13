@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1612947729 source:c:\users\panic\desktop\archivio_telefonico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1612948214 source:c:\users\panic\desktop\relazione\c\traccia 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

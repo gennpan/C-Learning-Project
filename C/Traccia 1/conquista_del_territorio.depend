@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612948893 source:c:\users\panic\desktop\conquista_del_territorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1612948893 source:c:\users\panic\desktop\relazione\c\traccia 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
